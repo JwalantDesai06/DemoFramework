@@ -24,6 +24,8 @@ public class Constants {
 	
 	public static String USERNAME = "UserName";
 	
+	public static String TESTCONSTANT = "Test";
+	
 	public static String PASSWORD = "Password";
 	
 	public static String PRODUCTS_TEXT = "Products";
